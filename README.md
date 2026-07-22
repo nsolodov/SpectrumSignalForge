@@ -2,9 +2,9 @@
 
 **Инженерный комплекс для цифровой обработки сигналов и систем связи**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourname/SpectrumSignalForge)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)](https://github.com/yourname/SpectrumSignalForge)
-[![Downloads](https://img.shields.io/github/downloads/yourname/SpectrumSignalForge/total.svg)](https://github.com/yourname/SpectrumSignalForge/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/nsolodov/SpectrumSignalForge)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)](https://github.com/nsolodov/SpectrumSignalForge)
+[![Download](https://img.shields.io/badge/download-Setup-green.svg)](https://github.com/nsolodov/SpectrumSignalForge/releases/download/v1.0.0/SpectrumSignalForge_Setup.exe)
 
 ---
 
