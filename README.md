@@ -2,19 +2,6 @@
 
 **Инженерный комплекс для цифровой обработки сигналов и систем связи**
 
-## Скачать
-
-<div align="center">
-
-### [Скачать SpectrumSignalForge_Setup.exe](https://github.com/nsolodov/SpectrumSignalForge/releases/download/v1.0.0/SpectrumSignalForge_Setup.exe)
-
-**Версия 1.0.0** | **115 МБ** | **Windows 10/11**
-
-
-</div>
-
----
-
 ## Как установить
 
 1. Скачайте файл `SpectrumSignalForge_Setup.exe`
