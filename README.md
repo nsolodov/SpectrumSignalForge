@@ -438,8 +438,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-### Ограничения
-    Данное ПО предоставляется "как есть" без каких-либо гарантий
-    Автор не несет ответственности за любой ущерб, вызванный использованием программы
-    Коммерческое использование разрешено при условии сохранения уведомления об авторских правах
