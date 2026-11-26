@@ -377,7 +377,7 @@ Ctrl + S	Сделать скриншот
 
 MIT License
 
-Copyright (c) 2024 Nikita
+Copyright (c) 2024 Nikita Solodov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
